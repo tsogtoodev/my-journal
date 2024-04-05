@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pb-16">
     <UContainer class="py-4">
       <UHorizontalNavigation :links="links" class="border-b border-gray-200 dark:border-gray-800" />
     </UContainer>
