@@ -14,5 +14,6 @@
 <script setup lang="ts">
 const links = [
   {label: "- Meaningful Activity", to: "/thoughts/meaningful-activity"},
+  {label: "- Rage & Violence", to: "/thoughts/rage-violence"},
 ];
 </script>
