@@ -80,6 +80,6 @@
       - Acep
     </p>
 
-    <small>2024, April - 04:18</small>
+    <small>2024, April 6th - 04:18</small>
   </article>
 </template>

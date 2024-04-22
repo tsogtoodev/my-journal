@@ -15,5 +15,6 @@
 const links = [
   {label: "- Meaningful Activity", to: "/thoughts/meaningful-activity"},
   {label: "- Rage & Violence", to: "/thoughts/rage-violence"},
+  {label: "- Admitting Defeat", to: "/thoughts/admitting-defeat"},
 ];
 </script>
